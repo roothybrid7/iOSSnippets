@@ -14,15 +14,13 @@
 {
     UIViewController *sourceViewController = self.sourceViewController;
     UIViewController *destinationViewController = self.destinationViewController;
-    UINavigationController *navigationController = nil;
+    UINavigationController *navigationController = sourceViewController.navigationController;
 
     if (self.unwind) {
-        navigationController = sourceViewController.navigationController;
         [UIView transitionWithView:navigationController.view duration:0.3f options:UIViewAnimationOptionTransitionFlipFromRight animations:^{
             [navigationController popToRootViewControllerAnimated:NO];
         } completion:nil];
     } else {
-        navigationController = sourceViewController.navigationController;
         [UIView transitionWithView:navigationController.view duration:0.3f options:UIViewAnimationOptionTransitionFlipFromLeft animations:^{
             [navigationController pushViewController:destinationViewController animated:NO];
         } completion:nil];
