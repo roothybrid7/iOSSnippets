@@ -1,0 +1,7 @@
+pod_lib_installer = lambda do |name, pod_args|
+  args = [name.to_s, pod_args].compact
+  pod(*args)
+end
+
+# using as it is from cocoapods
+pod 'ionicons',                     '~> 1.1'

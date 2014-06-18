@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>backgroundImageName</key>
+		<string>m010259.jpg</string>
+		<key>subTitle</key>
+		<string>EARTH 1</string>
+		<key>extra</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>backgroundImageName</key>
+		<string>m010263.jpg</string>
+		<key>subTitle</key>
+		<string>EARTH 2</string>
+		<key>extra</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>backgroundImageName</key>
+		<string>m010334.jpg</string>
+		<key>subTitle</key>
+		<string>EARTH 3</string>
+		<key>extra</key>
+		<array>
+			<dict>
+				<key>description</key>
+				<string>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
