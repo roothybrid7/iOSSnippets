@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  RefreshControl
+
+  Created by 大木 聡 on 2014/08/30.
+  Copyright (c) 2014年 roothybrid7. All rights reserved.
+*/
+
+"Pull to refresh" = "引っ張って更新";
+"Refreshing data..." = "データ更新中...";
+"Refreshed" = "更新完了";
